@@ -28,16 +28,5 @@ make sim_B
 ```properties
 make sim_BASIC_V
 ```
-6. Run HLS synthesis and Verilog simulation (Loop Unrolling)
-```properties
-make sim_FLAT_UNROLL_ALL_V
-```
-7. Run HLS synthesis and Verilog simulation (Loop Unrolling)
-```properties
-make sim_FLAT_UNROLL_ALL_FAST_V
-```
-8. Run HLS synthesis and Verilog simulation (DPA)
-```properties
-make sim_DPA_V
-```
+
 
