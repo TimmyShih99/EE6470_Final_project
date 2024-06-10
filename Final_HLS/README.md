@@ -11,7 +11,7 @@ git clone https://github.com/cmosinverter/ee6470-final-q1.git path_count
 ```
 2. Source the setup file
 ```properties
-cd path_count
+cd Final_HLS
 ```
 ```properties
 source staratus_env.sh
