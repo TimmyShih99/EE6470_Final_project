@@ -32,8 +32,6 @@ make sim_BASIC_V
 ## Beads sorting Implementation Using RISC-VP
 As for the other two folders of RISCV-VP, please place 'basic-acc' in \ee6470\riscv-vp\vp\src\platform\ for execution; and place 'basic-sobel' in \ee6470\riscv-vp\sw\ for execution.
 
-Replace the files with those ending in '_mc' to run multi-core.
-
 ```properties
 cd $EE6470 &&\
 cd riscv-vp/vp/build  &&\
@@ -44,4 +42,6 @@ cd riscv-vp/sw &&\
 cd basic-sobel &&\
 make sim 
 ```
+
+Replace the files with those ending in '_mc' to run multi-core.
 
