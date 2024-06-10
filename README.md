@@ -32,3 +32,14 @@ make sim_BASIC_V
 
 Replace the files with those ending in '_mc' to run multi-core.
 
+```properties
+cd $EE6470 &&\
+cd riscv-vp/vp/build  &&\
+cmake .. &&\
+make install &&\
+cd $EE6470 &&\
+cd riscv-vp/sw &&\
+cd basic-sobel &&\
+make sim 
+```
+
