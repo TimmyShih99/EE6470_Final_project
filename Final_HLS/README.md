@@ -28,5 +28,5 @@ make sim_B
 ```properties
 make sim_BASIC_V
 ```
-As for the other two folders of RISCV-VP, please place 'basic-acc' in \ee6470\riscv-vp\vp\src\platform\ for execution; and place 'basic-sobel' in \ee6470\riscv-vp\sw\ for execution.
+## As for the other two folders of RISCV-VP, please place 'basic-acc' in \ee6470\riscv-vp\vp\src\platform\ for execution; and place 'basic-sobel' in \ee6470\riscv-vp\sw\ for execution.
 
